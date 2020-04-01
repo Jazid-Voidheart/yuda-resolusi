@@ -5,4 +5,4 @@
 - Ngevlog
 - Ngedate
 - Youtube
-- Ngoding
+- Ngoding python dan java
